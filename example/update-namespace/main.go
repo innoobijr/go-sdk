@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/openfaas/faas-provider/types"
-	"github.com/openfaas/go-sdk"
+	"github.com/innoobijr/faas-provider/types"
+	"github.com/innoobijr/go-sdk"
 )
 
 func main() {

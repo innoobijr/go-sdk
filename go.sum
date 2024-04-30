@@ -1,5 +1,6 @@
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/openfaas/faas-provider v0.24.0 h1:5ToqdkqZ3pM9SdFKBMUmhU8IjXMh6+qd7gEDBeFhp1M=
-github.com/openfaas/faas-provider v0.24.0/go.mod h1:NsETIfEndZn4mn/w/XnBTcDTwKqULCziphLp7KgeRcA=
+github.com/innoobijr/faas-provider v0.25.2-beta.3 h1:IKZOGYuw4Q7X1Kxp2C9gP39ApyWCwlmvEs+kBSAkfL4=
+github.com/innoobijr/faas-provider v0.25.2-beta.3/go.mod h1:6dQADecwLe+N56WTurEthfiDsz+d9IuGbvwRmU+Mr8Y=
 go.uber.org/goleak v1.2.1 h1:NBol2c7O1ZokfZ0LEU9K6Whx/KnwvepVetCUhtKja4A=
+go.uber.org/goleak v1.2.1/go.mod h1:qlT2yGI9QafXHhZZLxlSuNsMw3FFLxBr+tBRlmO1xH4=

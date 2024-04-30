@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/openfaas/faas-provider/logs"
-	"github.com/openfaas/faas-provider/types"
+	"github.com/innoobijr/faas-provider/logs"
+	"github.com/innoobijr/faas-provider/types"
 )
 
 // Client is used to manage OpenFaaS functions

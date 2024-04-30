@@ -1,6 +1,6 @@
 package sdk
 
-import "github.com/openfaas/faas-provider/types"
+import "github.com/innoobijr/faas-provider/types"
 
 type SystemInfo struct {
 	Arch     string            `json:"arch,omitempty"`
